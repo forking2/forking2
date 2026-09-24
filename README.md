@@ -6,8 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marian%20Saliuk-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/%D0%BC%D0%B0%D1%82%D0%B2%D1%96%D0%B9-%D0%B1%D0%BB%D0%BE%D1%88-0535733a0])
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marian%20Saliuk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/матвій-блош-0535733a0)
 [![GitHub](https://img.shields.io/badge/forking2-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/forking2)
  
 [![Views](https://komarev.com/ghpvc/?username=forking2\&style=flat-square\&color=1f6feb\&label=profile+views)](https://github.com/forking2)
