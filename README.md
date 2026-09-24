@@ -1,29 +1,24 @@
-## About Me
+<div align="center">
 
-> I'm someone for whom it matters to keep developing and not stand still.
+# Matvii Blosh
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Developer;Backend+%26+Full-Stack+Development;.NET+%7C+ASP.NET+Core+%7C+React+%7C+PostgreSQL" alt="Typing"/>
 
-### 🔍 Curious by Nature
+<br/>
 
-I'm quite curious and enjoy understanding how everything works. If something catches my interest, simply knowing the answer usually isn't enough — I want to get to the heart of it. Because of this, I can dive into a topic for a long time and explore it from different angles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matvii%20Blosh-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/%D0%BC%D0%B0%D1%82%D0%B2%D1%96%D0%B9-%D0%B1%D0%BB%D0%BE%D1%88-0535733a0)
+ 
+[![GitHub](https://img.shields.io/badge/matviu08-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/matviu08)
+ 
+[![Views](https://komarev.com/ghpvc/?username=matviu08\&style=flat-square\&color=1f6feb\&label=profile+views)](https://github.com/matviu08)
 
-### 🛠️ Self-Driven Problem Solver
+</div>
 
-I'm used to doing a lot on my own. I like experimenting, making mistakes, hunting down the cause of an error, and gradually arriving at a solution. This shows up especially in programming, where I can sit with a problem for hours until I understand exactly what's going wrong.
+<br/>
 
-### 🎯 Attentive to Detail
+```text
+Software developer focused on C# and ASP.NET Core development,
+backend systems, REST APIs, databases and modern web applications.
 
-I'm fairly demanding of myself. I often notice details that others might not even pay attention to, and I think about how something could be done better. Sometimes this means I overanalyze or second-guess my own decisions, but at the same time, it's exactly what helps me grow.
-
-### 💡 Creating Rather Than Copying
-
-I like creating something of my own rather than just reproducing what someone else has already done. That's what draws me to programming and game development — you get to use logic, imagination, and your own ideas all at once.
-
-### 💬 Open to Discussion
-
-I also enjoy discussing different topics and asking a lot of questions. I'm interested in hearing other people's opinions, but I don't take them on faith — I usually try to work out for myself whether I actually agree.
-
-### 📈 Always Moving Forward
-
-Overall, I'm someone for whom it matters to keep developing and not stand still. I like seeing my own progress and knowing that today I can do more than I could yesterday.
+Building full-stack applications with ASP.NET Core and React,
+working with PostgreSQL and improving software architecture skills.
